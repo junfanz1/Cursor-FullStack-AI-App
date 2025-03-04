@@ -34,7 +34,8 @@
 - `.cursorrules` file, can prompt every time the rules (coding style, conventions, etc.) based on LLM sent to the cursor. Go to [Cursor website cursor.directory](https://cursor.directory/), find TypeScript, copy paste, it’s local to our codebase, different contexts for different stack.
 - Cursor notepad for prompt engineering: can add context which changes when you’re doing. (See below: RESTful API for API keys management)
 - Input Modal with Cursor tag, just like chatting with teammate
-![image](https://github.com/user-attachments/assets/6a36b989-4aed-4721-b986-db24ae9b1aff)
+![image](https://github.com/user-attachments/assets/ebacbf2f-dde2-403f-8535-f34de0aca05d)
+
 - Break down huge prompts into smaller tasks, otherwise debugging will be a huge pain, don’t put one big feature in a single prompt.
 - Bolt vs. Windsurf vs. Cursor copilots
 
@@ -111,7 +112,7 @@ Next, build the app in cloud which is scalable, deploy on Vercel.
 <!-- TOC --><a name="8-deployment"></a>
 ## 8. Deployment
 
-- Configure a custom production domain, buy from GoDaddy, setup domain with Vercel in Project Settings/Domains, add domain www.junfan.cloud, add A Record (copy this configure IP, go to GoDaddy Domain/Manage DNS to add new DNS records, then go back to refresh) and CNAME, then the web is online. Go to Google Cloud console/APIs Services/Credentials to add in URIs the new domain to allow list in authentication client.
+- Configure a custom production domain, buy from GoDaddy, setup domain with Vercel in Project Settings/Domains, add domain `www.junfan.cloud`, add A Record (copy this configure IP, go to GoDaddy Domain/Manage DNS to add new DNS records, then go back to refresh) and CNAME, then the web is online. Go to Google Cloud console/APIs Services/Credentials to add in URIs the new domain to allow list in authentication client.
 - Patching Vulnerability handling. Because the application is vulnerable to cache poisoning, `sudo yarn audit` will find 1 vulnerability, prompt: `how to upgrade next version with yarn, need to upgrade what packages`. Then `sudo yarn audit –fix` should fix it.
 
 <!-- TOC --><a name="acknowledgement"></a>
