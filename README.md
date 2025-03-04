@@ -2,6 +2,10 @@
 <!-- TOC --><a name="prompting-cursor-to-develop-full-stack-ai-application"></a>
 # Prompting Cursor to develop Full-Stack AI Application
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=junfanz1/Cursor-FullStack-AI-App&type=Date)](https://star-history.com/#junfanz1/Cursor-FullStack-AI-App&Date)
+
 <!-- TOC --><a name="content"></a>
 ## Content
 
