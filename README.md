@@ -2,6 +2,24 @@
 <!-- TOC --><a name="prompting-cursor-to-develop-full-stack-ai-application"></a>
 # Prompting Cursor to develop Full-Stack AI Application
 
+- Seasoned AI Researcher and Machine Learning Engineer with over 5 years of experience in developing and deploying end-to-end AI applications. Expertise in integrating large language models (LLMs) into full-stack solutions, leveraging tools like Cursor for efficient code generation. Proficient in a diverse set of technologies, including Next.js, LangChain.js, Supabase, and Vercel.
+- Developed a Micro SaaS AI application that processes GitHub URLs to generate JSON reports with AI-powered insights and repository statistics. 
+- Cursor Integration: Utilized Cursor to streamline code generation, enhancing development efficiency and reducing coding errors.
+- LLM Integration: Leveraged LangChain to integrate large language models into the backend, enabling the extraction of meaningful insights from GitHub repositories.
+- Full-Stack Development: Developed the application using Next.js, facilitating server-side rendering and enhancing user experience.
+- Data Storage and Management: Implemented Supabase with PostgreSQL to securely store and manage user data, ensuring scalability and reliability.
+- Deployment: Deployed the application on Vercel, ensuring seamless integration with the development workflow and providing a scalable hosting solution.
+- User Interface Development: Designed and implemented responsive UI components using Shadcn/UI and V0 (Vercel), enhancing user engagement and accessibility.
+- Authentication and Security: Integrated authentication mechanisms to secure user data and ensure authorized access to application features.
+- API Development: Developed RESTful APIs for API key management, facilitating secure and efficient communication between the frontend and backend.
+- Maintainer of the Cursor-FullStack-AI-App project on GitHub, providing implementations and research insights for the AI community.
+
+- Programming: JavaScript, Python
+- Frameworks: Next.js, LangChain, ReAct
+- Data Storage: Supabase, PostgreSQL
+- Deployment Platforms: Vercel
+- Tools: Cursor, Docker
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=junfanz1/Cursor-FullStack-AI-App&type=Date)](https://star-history.com/#junfanz1/Cursor-FullStack-AI-App&Date)
